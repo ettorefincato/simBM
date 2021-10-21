@@ -1,2 +1,2 @@
 # simBM
-simulations of Brownian Motions
+simulations for Brownian Motion
