@@ -7,11 +7,11 @@
 #' @param init_val
 #'
 #' @return
-#' @export simulate
+#' @export sim_bm
 #'
 #' @examples
 
-simulate <- function(nsim, sigma_2, init_val){
+sim_bm <- function(nsim, sigma_2, init_val){
 
   bm <- c()
   bm[1] <- init_val # BM starts from init_val
